@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0048-rotate-image) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0048-rotate-image) |
+<!---LeetCode Topics End-->
