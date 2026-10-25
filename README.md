@@ -34,4 +34,20 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
