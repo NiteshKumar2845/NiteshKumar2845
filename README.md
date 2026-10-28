@@ -58,4 +58,16 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
