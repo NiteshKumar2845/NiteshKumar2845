@@ -1,11 +1,10 @@
 class Solution {
 public:
 
-    bool canEat(vector<int>& piles, int h, int mid) {
+    bool canEat(vector<int>& piles, int h, int k) {
         long long hours = 0;
-
         for(auto pile : piles) {
-            hours += (pile + (long long)mid - 1) / mid;
+            hours += ceil(double(pile) / double(k));
         }
 
         return hours <= h;
@@ -24,7 +23,7 @@ public:
                 high = mid - 1;
             }
             else {
-                low = mid + 1;
+                low = mid  + 1;
             }
         }
 
