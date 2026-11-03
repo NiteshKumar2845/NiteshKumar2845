@@ -26,12 +26,14 @@ Here are some ideas to get you started:
 | [0875-koko-eating-bananas](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0875-koko-eating-bananas) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0048-rotate-image) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Matrix
 |  |
 | ------- |
