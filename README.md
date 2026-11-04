@@ -71,10 +71,12 @@ Here are some ideas to get you started:
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -91,4 +93,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
