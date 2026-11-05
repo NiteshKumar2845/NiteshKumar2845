@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0875-koko-eating-bananas](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -90,6 +91,7 @@ Here are some ideas to get you started:
 | [0242-valid-anagram](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +130,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0239-sliding-window-maximum) |
+## Counting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 <!---LeetCode Topics End-->
