@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0239-sliding-window-maximum](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0239-sliding-window-maximum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0875-koko-eating-bananas](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0875-koko-eating-bananas) |
@@ -105,9 +106,26 @@ Here are some ideas to get you started:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
