@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -95,6 +96,7 @@ Here are some ideas to get you started:
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0875-koko-eating-bananas) |
