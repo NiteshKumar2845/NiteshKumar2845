@@ -75,12 +75,14 @@ Here are some ideas to get you started:
 | [0003-longest-substring-without-repeating-characters](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0424-longest-repeating-character-replacement) |
 ## Two Pointers
 |  |
 | ------- |
