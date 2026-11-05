@@ -9,6 +9,7 @@ public:
             for(int j = 0; j < arr2.size(); j++) {
                 if(arr2[j] >= n1 && arr2[j] <= n2 && check) {
                     check = false;
+                    break;
                 }
             }
             if(check) count++;
