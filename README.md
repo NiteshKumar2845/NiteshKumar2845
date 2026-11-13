@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0048-rotate-image) |
+| [0078-subsets](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0078-subsets) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Tree
 |  |
@@ -136,4 +138,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
