@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 | [0875-koko-eating-bananas](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3364-minimum-positive-sum-subarray](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -114,6 +115,7 @@ Here are some ideas to get you started:
 | [0076-minimum-window-substring](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0424-longest-repeating-character-replacement) |
+| [3364-minimum-positive-sum-subarray](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,4 +144,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0078-subsets](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0078-subsets) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
