@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 | [0076-minimum-window-substring](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0424-longest-repeating-character-replacement) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -163,4 +164,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0785-is-graph-bipartite) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
