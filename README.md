@@ -61,11 +61,13 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0100-same-tree) |
+| [0785-is-graph-bipartite](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0785-is-graph-bipartite) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0100-same-tree) |
+| [0785-is-graph-bipartite](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0785-is-graph-bipartite) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
@@ -74,6 +76,7 @@ Here are some ideas to get you started:
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0785-is-graph-bipartite) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
@@ -148,4 +151,16 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3364-minimum-positive-sum-subarray) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
