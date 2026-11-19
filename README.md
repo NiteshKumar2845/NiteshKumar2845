@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 | [0875-koko-eating-bananas](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0875-koko-eating-bananas) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3364-minimum-positive-sum-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -100,6 +101,7 @@ Here are some ideas to get you started:
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -168,4 +170,8 @@ Here are some ideas to get you started:
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
