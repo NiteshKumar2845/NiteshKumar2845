@@ -93,6 +93,7 @@ Here are some ideas to get you started:
 | [0076-minimum-window-substring](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/0424-longest-repeating-character-replacement) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/NiteshKumar2845/NiteshKumar2845/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sorting
 |  |
